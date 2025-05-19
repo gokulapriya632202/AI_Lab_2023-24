@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/269bb0ed-981f-47bf-b2f1-4ec61b271bd9)# Ex.No: 4   Implementation of Alpha Beta Pruning 
+# Ex.No: 4   Implementation of Alpha Beta Pruning 
 ### NAME: GOKULA PRIYA P                                                                            
 ### REGISTER NUMBER : 212222040044
 ### AIM: 
