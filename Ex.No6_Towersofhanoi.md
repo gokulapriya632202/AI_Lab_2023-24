@@ -1,4 +1,4 @@
-# Ex.No: 6   Logic Programming – Factorial of number   
+# Ex.No: 6   Towers of Hanoi  
 ### NAME: GOKULA PRIYA P                                                                            
 ### REGISTER NUMBER : 212222040044
 ### AIM: 
